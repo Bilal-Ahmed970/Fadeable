@@ -1,0 +1,22 @@
+{
+  "name": "Fadeable",
+  "version": "0.1.0",
+  "summary": "A short description of Fadeable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bilal Ahmed/Fadeable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bilal Ahmed": "bilal.ahmed@o3interfaces.com"
+  },
+  "source": {
+    "git": "https://github.com/Bilal Ahmed/Fadeable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Fadeable/Classes/**/*"
+}
